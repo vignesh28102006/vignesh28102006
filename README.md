@@ -1,4 +1,5 @@
-<!-- 🌌 FINAL CLEAN GITHUB PROFILE README (VIGNESH) -->
+<!-- 🌌 FINAL PROFESSIONAL GITHUB PROFILE README (VASALA VIGNESH) -->
+
 <div align="center">
   <h1>👋 Hey there, I'm Vignesh</h1>
   <h3>🎓 Computer Science Engineer</h3>
@@ -9,30 +10,26 @@
 </div>
 
 <br>
-
 <hr>
-
 <br>
 
-<h2>🚀 About Me</h2>
+## 🚀 About Me
 
 <p>
-  I'm <b>Vignesh</b>, a <b>2nd-year B.Tech Computer Science Engineering</b> student at 
-  <b>Amrita Vishwa Vidyapeetham</b>.  
-  <br><br>
-  Passionate about <b>technology, innovation</b>, and <b>continuous learning</b>.  
-  I enjoy building smart, creative, and efficient systems that make a real-world impact.  
-  <br><br>
-  <i>"Code. Learn. Grow. Repeat."</i>
+I'm <b>Vignesh</b>, a <b>2nd-year B.Tech Computer Science Engineering</b> student at 
+<b>Amrita Vishwa Vidyapeetham</b>.  
+<br><br>
+I’m passionate about <b>technology, innovation</b>, and <b>continuous learning</b>.  
+I love building <b>AI-driven, scalable, and impactful</b> systems that bridge opportunities for everyone.  
+<br><br>
+<i>"Code. Learn. Grow. Repeat."</i>
 </p>
 
 <br>
-
 <hr>
-
 <br>
 
-<h2>🎯 Featured Project</h2>
+## 🎯 Featured Project
 
 <h3>🧭 Career Path Finder</h3>
 
@@ -46,12 +43,10 @@
 </ul>
 
 <br>
-
 <hr>
-
 <br>
 
-<h2>💻 Tech Stack</h2>
+## 💻 Tech Stack
 
 <div align="center">
   
@@ -63,8 +58,9 @@
   <h3>Databases & Graph DB</h3>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg#gh-dark-mode-only" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="48" height="48" style="background-color: white; padding: 4px; border-radius: 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" 
+         alt="Neo4j" width="48" height="48" 
+         style="background-color:white; padding:4px; border-radius:8px;" />
   </picture>
   
   <br><br>
@@ -85,18 +81,16 @@
 </div>
 
 <br>
-
 <hr>
-
 <br>
 
-<h2>📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <!-- 🔥 FIXED STREAK CARD -->
+
+  <!-- 🔥 GITHUB STREAK -->
   <img 
-    src="https://streak-stats.demolab.com?user=vignesh28102006&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=C9D1D9&v=1" 
+    src="https://streak-stats.demolab.com?user=vignesh28102006&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=C9D1D9" 
     alt="GitHub Streak" 
     width="49%" 
   />
@@ -109,7 +103,7 @@
   />
   
   <br><br>
-  
+
   <!-- 📈 PROFILE SUMMARY -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vignesh28102006&theme=tokyonight" 
@@ -118,22 +112,29 @@
   />
   
   <br><br>
-  
-  <!-- 🏆 TROPHIES -->
+
+  <!-- 🏆 GITHUB TROPHIES -->
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=vignesh28102006&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" 
+    src="https://github-profile-trophy.vercel.app/?username=vignesh28102006&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" 
     alt="GitHub Trophies" 
   />
-  
+
+  <br><br>
+
+  <!-- ⚡ CONTRIBUTION GRAPH -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vignesh28102006&bg_color=0D1117&color=38BDF8&line=38BDF8&point=1F6FEB&area=true&hide_border=true" 
+    width="100%" 
+    alt="Vignesh's Contribution Graph" 
+  />
+
 </div>
 
 <br>
-
 <hr>
-
 <br>
 
-<h2>🤝 Connect With Me</h2>
+## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vasala-vignesh-503227345/" target="_blank">
@@ -152,8 +153,12 @@
 
 <br>
 
-<hr>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vignesh28102006&label=Profile+Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+</p>
 
+<br>
+<hr>
 <br>
 
 <div align="center">
