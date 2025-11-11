@@ -94,11 +94,14 @@
 
 <div align="center">
   
+  <!-- 🔥 FIXED STREAK CARD -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh28102006&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8" 
+    src="https://streak-stats.demolab.com?user=vignesh28102006&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=C9D1D9&v=1" 
     alt="GitHub Streak" 
     width="49%" 
   />
+
+  <!-- 💡 TOP LANGUAGES -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh28102006&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=C9D1D9&bg_color=0D1117" 
     alt="Top Languages" 
@@ -107,6 +110,7 @@
   
   <br><br>
   
+  <!-- 📈 PROFILE SUMMARY -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vignesh28102006&theme=tokyonight" 
     alt="Profile Summary" 
@@ -115,6 +119,7 @@
   
   <br><br>
   
+  <!-- 🏆 TROPHIES -->
   <img 
     src="https://github-profile-trophy.vercel.app/?username=vignesh28102006&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" 
     alt="GitHub Trophies" 
@@ -152,5 +157,5 @@
 <br>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/vignesh28102006">vignesh28102006</a> - Feel free to explore my repositories!</i>
+  <i>⭐ From <a href="https://github.com/vignesh28102006">vignesh28102006</a> — Feel free to explore my repositories!</i>
 </div>
