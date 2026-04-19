@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 <p>
-I'm <b>Vignesh</b>, a <b>2nd-year B.Tech Computer Science Engineering</b> student at 
+I'm <b>Vignesh</b>, a <b>3rd-year B.Tech Computer Science Engineering</b> student at 
 <b>Amrita Vishwa Vidyapeetham</b>.  
 <br><br>
 I’m passionate about <b>technology, innovation</b>, and <b>continuous learning</b>.  
