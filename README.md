@@ -4,7 +4,7 @@
   <h1>👋 Hey there, I'm Vignesh</h1>
   <h3>🎓 Computer Science Engineer</h3>
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&width=700&lines=Building+the+Future+with+Code;2nd+Year+B.Tech+CSE+%40+Amrita;Passionate+about+AI+%26+Innovation;Always+Learning+%26+Growing" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&width=700&lines=Building+the+Future+with+Code;3rd+Year+B.Tech+CSE+%40+Amrita;Passionate+about+AI+%26+Innovation;Always+Learning+%26+Growing" 
     alt="Typing SVG" 
   />
 </div>
