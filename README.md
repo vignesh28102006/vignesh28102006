@@ -27,8 +27,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation"/>
-
 ```python
 class Developer:
     def __init__(self):
@@ -86,11 +84,6 @@ class Developer:
   <img src="https://raw.githubusercontent.com/vignesh28102006/vignesh28102006/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
 </p>
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vignesh28102006/vignesh28102006/output/github-snake.svg" alt="GitHub contribution snake"/>
-</p>
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://raw.githubusercontent.com/vignesh28102006/vignesh28102006/main/github-stats.svg" alt="GitHub Statistics"/>
@@ -100,11 +93,6 @@ class Developer:
 
 ### 🌟 Mission Statement
 Build useful software, explore emerging technologies, contribute to open source, and turn ambitious ideas into reliable production systems.
-
-### 💬 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote"/>
-</p>
 
 ### ⚡ Open to Internships, Collaborations & Research
 <p align="center">
